@@ -1,0 +1,1 @@
+update students set cohort_id = NULL where cohort_id = 12;
